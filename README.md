@@ -1,4 +1,4 @@
 # AI-Learn
-lrbasic
-edaipynb
-3agents (req.txt,multi agents,basic agents)
+1 ) lrbasic
+2) edaipynb
+3) agents (req.txt,multi agents,basic agents)
